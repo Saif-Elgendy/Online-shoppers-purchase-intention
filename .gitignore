@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+artifacts/*.joblib
+.DS_Store
